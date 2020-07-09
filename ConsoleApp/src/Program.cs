@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Utilities.PersonalizationManager;
 
-namespace ConsoleTest
+namespace ConsoleApp
 {
     class Program
     {
@@ -16,9 +16,9 @@ namespace ConsoleTest
             IPersonalizationManagerUtilityFactory factory = new PersonalizationManagerUtilityFactory();
             PersonalizationManager pmanager = new PersonalizationManager(factory);
 
-            bool status = pmanager.SetCredentials("ConsoleTest");
+            bool status = pmanager.SetCredentials("ConsoleApp");
 
-            (string user, SecureString password) = pmanager.GetCredentials("ConsoleTest");
+            (string user, SecureString password) = pmanager.GetCredentials("ConsoleApp");
 
             var targetBstr = Marshal.SecureStringToBSTR(password);
             var targetString = Marshal.PtrToStringBSTR(targetBstr);

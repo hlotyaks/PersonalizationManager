@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalizationManager", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "PersonalizationManager\tests\UnitTest.csproj", "{B60D739B-9428-4BC4-9FDE-B30ADE85ABC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\src\ConsoleTest.csproj", "{1877B550-A384-4925-80DF-71DC73B81FD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\src\ConsoleApp.csproj", "{1877B550-A384-4925-80DF-71DC73B81FD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
