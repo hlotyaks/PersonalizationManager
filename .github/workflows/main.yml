@@ -33,4 +33,7 @@ jobs:
     
     - name: Build
       run: msbuild PersonalizationManager.sln /p:Configuration=Release
+    
+    - name: Test
+      run: vstest.console.exe .\PersonalizationManager\tests\bin\release\unittest.dll
   
