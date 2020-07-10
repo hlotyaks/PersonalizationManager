@@ -39,8 +39,4 @@ jobs:
     
     - name: Test
       run: vstest.console.exe .\PersonalizationManager\tests\bin\release\unittest.dll
-
-    - name: Publish
-      run: dotnet pack --configuration Release
-           dotnet nuget push "bin/Release/PersonalizationManager.1.0.0.nupkg" --source "github"
   
