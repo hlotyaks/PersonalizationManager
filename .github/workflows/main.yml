@@ -42,5 +42,5 @@ jobs:
 
     - name: Publish
       run: dotnet pack --configuration Release
-      run: dotnet nuget push "bin/Release/PersonalizationManager.1.0.0.nupkg" --source "github"
+           dotnet nuget push "bin/Release/PersonalizationManager.1.0.0.nupkg" --source "github"
   
