@@ -3,4 +3,4 @@
 
 Project|Build Status
 ---|---
-PersonalizationManager|![Build Status](https://github.com/hlotyaks/PersonalizationManager/workflows/.NET/badge.svg)
+PersonalizationManager|![Build Status](https://github.com/hlotyaks/PersonalizationManager/workflows/CI/badge.svg)
