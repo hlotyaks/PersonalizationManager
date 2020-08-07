@@ -1,7 +1,7 @@
 ﻿using CredentialManagement;
 using System.Security;
 
-namespace Utilities.PersonalizationManager
+namespace GDSoft.Utilities.PersonalizationManager
 {
     public interface ICredentialWrapper
     {

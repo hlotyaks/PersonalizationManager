@@ -10,8 +10,13 @@
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/hlotyaks/PersonalizationManager</projectUrl>
     <description>Utility for reading and writing application personal data</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <releaseNotes>Interact with Windows credential manager</releaseNotes>
     <copyright>Copyright 2020</copyright>
     <tags>credential manager security password</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.8">
+        <dependency id="CredentialManagement" version="1.0.2"/>
+      </group>
+    </dependencies>
   </metadata>
 </package>

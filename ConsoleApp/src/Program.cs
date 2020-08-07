@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Security;
 using System.Text;
 using System.Threading.Tasks;
-using Utilities.PersonalizationManager;
+using GDSoft.Utilities.PersonalizationManager;
 
 namespace ConsoleApp
 {
