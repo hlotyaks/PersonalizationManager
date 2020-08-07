@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>GDSoft.PersonalizationManager</id>
+    <version>1.0.0</version>
+    <title>PersonalizationManager</title>
+    <authors>Stephen Hlotyak</authors>
+    <owners>hlotyaks</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/hlotyaks/PersonalizationManager</projectUrl>
+    <description>Utility for reading and writing application personal data</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>credential manager security password</tags>
+  </metadata>
+</package>
