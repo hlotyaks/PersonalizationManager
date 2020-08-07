@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Utilities.PersonalizationManager;
+using GDSoft.Utilities.PersonalizationManager;
 using Moq;
 using System.Security;
 using FluentAssertions;

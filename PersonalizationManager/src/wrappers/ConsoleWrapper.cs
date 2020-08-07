@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Utilities.PersonalizationManager
+namespace GDSoft.Utilities.PersonalizationManager
 {
     /// <summary>
     /// Wrapper for console.  Useful for unit testing

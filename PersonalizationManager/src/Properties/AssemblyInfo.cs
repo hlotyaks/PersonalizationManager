@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PersonalizationManager")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("PersonalizationManager Utility")]
+[assembly: AssemblyDescription("Interfaces with Windows credential manager")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Stephen Hlotyak")]
 [assembly: AssemblyProduct("PersonalizationManager")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]

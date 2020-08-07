@@ -1,4 +1,4 @@
-﻿namespace Utilities.PersonalizationManager
+﻿namespace GDSoft.Utilities.PersonalizationManager
 {
     public interface IWindowsIdentityWrapper
     {

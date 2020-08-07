@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Utilities.PersonalizationManager
+namespace GDSoft.Utilities.PersonalizationManager
 {
     public interface IConsoleWrapper
     {

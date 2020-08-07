@@ -1,6 +1,4 @@
-﻿using CredentialManagement;
-
-namespace Utilities.PersonalizationManager
+﻿namespace GDSoft.Utilities.PersonalizationManager
 {
     /// <summary>
     /// Factory interface
